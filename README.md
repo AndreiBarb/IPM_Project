@@ -9,6 +9,8 @@ Este projeto consiste no redesenho da interface de utilizador da aplicação mó
 
 ## Funcionalidades Implementadas
 ### 1. Criar um Quiz
+![A](images/questions.png)
+
 - Os utilizadores podem criar um quiz chamado **"MAP UX"** com cinco perguntas de escolha múltipla.
 - O quiz tem um limite de tempo de **dois minutos**.
 - A ordem das perguntas é **aleatória** e os utilizadores **não podem** voltar atrás.
