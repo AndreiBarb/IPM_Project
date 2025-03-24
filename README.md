@@ -42,7 +42,7 @@ Para garantir uma experiência de utilizador otimizada, seguimos uma **abordagem
 
 ## Como Aceder ao Protótipo
 O protótipo de alta fidelidade está disponível no **Figma**. Para visualizar e interagir com o design:
-1. Aceder ao link do projeto Figma: ([Projeto](https://www.figma.com/proto/nszmgux6zelncYe72KRtHF/L11G53%5B1%5D?node-id=12-44&starting-point-node-id=12%3A44))
+1. Aceder ao link do projeto Figma: [Projeto](https://www.figma.com/proto/nszmgux6zelncYe72KRtHF/L11G53%5B1%5D?node-id=12-44&starting-point-node-id=12%3A44)
 2. Testar as diferentes funcionalidades de criação de quizzes.
 3. Enviar feedback para futuras melhorias.
 
