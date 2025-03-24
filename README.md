@@ -52,10 +52,10 @@ O protótipo de alta fidelidade está disponível no **Figma**. Para visualizar 
 - **[Pedro Nunes , Martim Claudino e Francisco Planas]**
 
 
+![A](images/tela_geral.jpg)
+![A](images/tipos_de_quizzes.jpg)
 ![A](images/questions.jpg)
-![A](images/questions.jpg)
-![A](images/questions.jpg)
-![A](images/questions.jpg)
+![A](images/profile.jpg)
 
 
 
