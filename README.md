@@ -3,7 +3,7 @@
 ## Visão Geral do Projeto
 Este projeto consiste no redesenho da interface de utilizador da aplicação móvel **Quizzes-Tutor**. O objetivo é melhorar a experiência de criação de quizzes para estudantes e docentes do IST (Instituto Superior Técnico). O projeto envolve a criação de um protótipo interativo de alta fidelidade em **Figma**, que suporte três funcionalidades principais:
 
-1. **Criar um Quiz**
+1. **Criar um Quiz** 
 2. **Criar um Quiz Colaborativamente**
 3. **Criar um Quiz com Recurso a IA**
 
