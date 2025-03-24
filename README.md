@@ -7,6 +7,12 @@ Este projeto consiste no redesenho da interface de utilizador da aplicação mó
 2. **Criar um Quiz Colaborativamente**
 3. **Criar um Quiz com Recurso a IA**
 
+## Como Aceder ao Protótipo
+O protótipo de alta fidelidade está disponível no **Figma**. Para visualizar e interagir com o design:
+1. Aceder ao link do projeto Figma: [Projeto](https://www.figma.com/proto/nszmgux6zelncYe72KRtHF/L11G53%5B1%5D?node-id=12-44&starting-point-node-id=12%3A44)
+2. Testar as diferentes funcionalidades de criação de quizzes.
+3. Enviar feedback para futuras melhorias.
+
 ## Funcionalidades Implementadas
 ### 1. Criar um Quiz
 
@@ -40,12 +46,6 @@ Para garantir uma experiência de utilizador otimizada, seguimos uma **abordagem
 - **Prototipagem em Papel** (para a fase inicial de ideação)
 - **Métodos de Testes com Utilizadores** (Think-Aloud, Wizard-of-Oz)
 - **Princípios de Design Material** (para consistência e usabilidade da interface)
-
-## Como Aceder ao Protótipo
-O protótipo de alta fidelidade está disponível no **Figma**. Para visualizar e interagir com o design:
-1. Aceder ao link do projeto Figma: [Projeto](https://www.figma.com/proto/nszmgux6zelncYe72KRtHF/L11G53%5B1%5D?node-id=12-44&starting-point-node-id=12%3A44)
-2. Testar as diferentes funcionalidades de criação de quizzes.
-3. Enviar feedback para futuras melhorias.
 
 ## Contribuidores
 - **[Andrei Barb]**
